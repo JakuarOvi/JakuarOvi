@@ -2,7 +2,7 @@
 <h3 align="center">Student of Computer Science & Engineering. Cybersecurity Researcher & Analyst</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0DQJa7hs4H7CJU2RXqHVnm&ust=1708769342530000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICuhYGcwYQDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="avento.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakuarovi" alt="jakuarovi" /></a> </p>
 
