@@ -7,7 +7,7 @@
 
 - 👨‍💻 Website [https://jakuarovi.github.io/website/](https://jakuarovi.github.io/website/)
 
-- 🧑‍💻 I regularly slove programming in Codeforces,Codechef,Hackerrank,Beecrowd.
+- 🧑‍💻 I am regularly slove programming in Codeforces,Codechef,Hackerrank,Beecrowd.
 
 - 📧 How to reach me **jakuarhossain08@gmail.com**
 
