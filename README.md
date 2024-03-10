@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Jakuar Hossain Ovi</h1>
+<h1 align="center">Hi 👋, I'm MD Jakuar Hossain Ovi</h1>
 <h3 align="center">Student of Computer Science & Engineering. Cybersecurity Researcher & Analyst</h3>
 
-
+ <p>I'm a-<span class="typed" data-typed-items="Competitive Programmer...., Cybersecurity Researcher..."></span></p>
 <img align="right" alt="coding" width="400" src="avento.gif">
 - 💻 I’m currently learning **Cybersecurity and Ethical Hacking**
 
