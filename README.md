@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="avento.gif">
 - 💻 I’m currently learning **Cybersecurity and Ethical Hacking**
 
-- 👨‍💻 Resume [https://jakuarovi.github.io/website/]([https://jakuarovi.github.io/website/](https://jakuarovi.github.io/Resume/))
+- 👨‍💻 Resume [https://jakuarovi.github.io/Resume/]((https://jakuarovi.github.io/Resume/))
 
 - 🧑‍💻 I am regularly slove programming in Codeforces,Codechef,Hackerrank,Beecrowd.
 
