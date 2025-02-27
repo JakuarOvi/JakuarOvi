@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I am regularly slove programming in Codeforces,Codechef,Hackerrank,Beecrowd.
 
-- 📧 How to reach me **jakuarhossain08@gmail.com**
+- 📧 To reach me **jakuarhossain08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
